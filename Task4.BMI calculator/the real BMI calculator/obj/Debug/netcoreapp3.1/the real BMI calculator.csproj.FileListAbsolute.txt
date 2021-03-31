@@ -1,0 +1,15 @@
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\bin\Debug\netcoreapp3.1\the real BMI calculator.exe
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\bin\Debug\netcoreapp3.1\the real BMI calculator.deps.json
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\bin\Debug\netcoreapp3.1\the real BMI calculator.runtimeconfig.json
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\bin\Debug\netcoreapp3.1\the real BMI calculator.runtimeconfig.dev.json
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\bin\Debug\netcoreapp3.1\the real BMI calculator.dll
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\bin\Debug\netcoreapp3.1\the real BMI calculator.pdb
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\obj\Debug\netcoreapp3.1\the real BMI calculator.csprojAssemblyReference.cache
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\obj\Debug\netcoreapp3.1\the_real_BMI_calculator.Form1.resources
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\obj\Debug\netcoreapp3.1\the real BMI calculator.csproj.GenerateResource.cache
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\obj\Debug\netcoreapp3.1\the real BMI calculator.AssemblyInfoInputs.cache
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\obj\Debug\netcoreapp3.1\the real BMI calculator.AssemblyInfo.cs
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\obj\Debug\netcoreapp3.1\the real BMI calculator.csproj.CoreCompileInputs.cache
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\obj\Debug\netcoreapp3.1\the real BMI calculator.dll
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\obj\Debug\netcoreapp3.1\the real BMI calculator.pdb
+C:\Users\olabo\source\repos\the real BMI calculator\the real BMI calculator\obj\Debug\netcoreapp3.1\the real BMI calculator.genruntimeconfig.cache
