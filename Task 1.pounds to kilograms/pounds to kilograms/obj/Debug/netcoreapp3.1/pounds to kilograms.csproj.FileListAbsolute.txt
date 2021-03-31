@@ -1,0 +1,15 @@
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\bin\Debug\netcoreapp3.1\pounds to kilograms.exe
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\bin\Debug\netcoreapp3.1\pounds to kilograms.deps.json
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\bin\Debug\netcoreapp3.1\pounds to kilograms.runtimeconfig.json
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\bin\Debug\netcoreapp3.1\pounds to kilograms.runtimeconfig.dev.json
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\bin\Debug\netcoreapp3.1\pounds to kilograms.dll
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\bin\Debug\netcoreapp3.1\pounds to kilograms.pdb
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\obj\Debug\netcoreapp3.1\pounds to kilograms.csprojAssemblyReference.cache
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\obj\Debug\netcoreapp3.1\pounds_to_kilograms.Form1.resources
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\obj\Debug\netcoreapp3.1\pounds to kilograms.csproj.GenerateResource.cache
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\obj\Debug\netcoreapp3.1\pounds to kilograms.AssemblyInfoInputs.cache
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\obj\Debug\netcoreapp3.1\pounds to kilograms.AssemblyInfo.cs
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\obj\Debug\netcoreapp3.1\pounds to kilograms.csproj.CoreCompileInputs.cache
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\obj\Debug\netcoreapp3.1\pounds to kilograms.dll
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\obj\Debug\netcoreapp3.1\pounds to kilograms.pdb
+C:\Users\olabo\source\repos\pounds to kilograms\pounds to kilograms\obj\Debug\netcoreapp3.1\pounds to kilograms.genruntimeconfig.cache

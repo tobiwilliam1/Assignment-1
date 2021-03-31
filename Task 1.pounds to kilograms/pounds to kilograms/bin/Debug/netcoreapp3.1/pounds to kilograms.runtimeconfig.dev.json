@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\olabo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\olabo\\.nuget\\packages"
+    ]
+  }
+}

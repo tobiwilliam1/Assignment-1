@@ -1,0 +1,15 @@
+C:\Users\olabo\source\repos\Word counter\Word counter\obj\Debug\netcoreapp3.1\Word counter.csprojAssemblyReference.cache
+C:\Users\olabo\source\repos\Word counter\Word counter\obj\Debug\netcoreapp3.1\Word_counter.Form1.resources
+C:\Users\olabo\source\repos\Word counter\Word counter\obj\Debug\netcoreapp3.1\Word counter.csproj.GenerateResource.cache
+C:\Users\olabo\source\repos\Word counter\Word counter\obj\Debug\netcoreapp3.1\Word counter.AssemblyInfoInputs.cache
+C:\Users\olabo\source\repos\Word counter\Word counter\obj\Debug\netcoreapp3.1\Word counter.AssemblyInfo.cs
+C:\Users\olabo\source\repos\Word counter\Word counter\obj\Debug\netcoreapp3.1\Word counter.csproj.CoreCompileInputs.cache
+C:\Users\olabo\source\repos\Word counter\Word counter\bin\Debug\netcoreapp3.1\Word counter.exe
+C:\Users\olabo\source\repos\Word counter\Word counter\bin\Debug\netcoreapp3.1\Word counter.deps.json
+C:\Users\olabo\source\repos\Word counter\Word counter\bin\Debug\netcoreapp3.1\Word counter.runtimeconfig.json
+C:\Users\olabo\source\repos\Word counter\Word counter\bin\Debug\netcoreapp3.1\Word counter.runtimeconfig.dev.json
+C:\Users\olabo\source\repos\Word counter\Word counter\bin\Debug\netcoreapp3.1\Word counter.dll
+C:\Users\olabo\source\repos\Word counter\Word counter\bin\Debug\netcoreapp3.1\Word counter.pdb
+C:\Users\olabo\source\repos\Word counter\Word counter\obj\Debug\netcoreapp3.1\Word counter.dll
+C:\Users\olabo\source\repos\Word counter\Word counter\obj\Debug\netcoreapp3.1\Word counter.pdb
+C:\Users\olabo\source\repos\Word counter\Word counter\obj\Debug\netcoreapp3.1\Word counter.genruntimeconfig.cache
